@@ -1,0 +1,4 @@
+{
+    "/*?*page=:page": "/$1?$2_page=:page",
+    "/*?*limit=:limit": "/$1?$2_limit=:limit"
+}
